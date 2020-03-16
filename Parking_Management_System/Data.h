@@ -1,7 +1,7 @@
 #ifndef __Data_H__
 #define __Data_H__
 typedef struct _Car {
-	char *number;
+	int number;
 	int enter_time;
 }Car;
 
